@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Lucas Vidoto Estanislau👋
 
 - 🔭 I’m currently working on React Native, React and Java projects.
 - 🌱 I’m currently learning advanced React Native and software architecture
